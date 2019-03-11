@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  margin-top: 20%;
+  font-family: 'Roboto', sans-serif;
+}
+button {
+  padding: 7px 13px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 7px;
+  margin: 7px 0;
+}
+.number {
+  font-size: 2em;
+  margin: 7px;
+  width: 40px;
+  background-color: yellow;
+  border: 2px solid black;
+  border-radius: 50px;
+  padding: 7px;
+}
